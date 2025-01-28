@@ -48,7 +48,9 @@ The application runs quietly in your system tray for quick access.
 
 
 ### Results Window
-![Results Window](#) <!-- Add the path or URL to the image -->
+![Results Window](snapshots/Screenshot%202025-01-28%20203113.png)
+
+ <!-- Add the path or URL to the image -->
 
 Extracted text appears in a clean, copy-ready format.
 
