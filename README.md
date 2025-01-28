@@ -29,7 +29,7 @@
 
 1. **Clone** this repository:
    ```bash
-   git clone https://github.com/yourusername/screen2text.git
+   git clone https://github.com/neeraj1240/screen2text.git
    ```
 2. Ensure **Java 11 or higher** is installed on your system.
 3. Open the project in your preferred IDE (e.g., IntelliJ IDEA or Eclipse).
@@ -41,15 +41,15 @@
 ## Snapshots
 
 ### System Tray Icon
-![System Tray Icon](#) <!-- Add the path or URL to the image -->
+![System Tray Icon](snapshots/tray.png) <!-- Add the path or URL to the image -->
+
 The application runs quietly in your system tray for quick access.
+
+
 
 ### Results Window
 ![Results Window](#) <!-- Add the path or URL to the image -->
+
 Extracted text appears in a clean, copy-ready format.
 
----
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
